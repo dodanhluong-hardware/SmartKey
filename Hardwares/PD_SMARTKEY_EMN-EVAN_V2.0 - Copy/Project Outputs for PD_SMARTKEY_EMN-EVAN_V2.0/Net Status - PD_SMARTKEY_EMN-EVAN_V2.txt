@@ -1,0 +1,81 @@
+Net Status Report
+Filename     : C:\Users\DELL\Documents\GitHub\Altium-cp1\PD_SMARTKEY_ALL_V2\Hardwares\PD_SMARTKEY_EMN-EVAN_V2.0\PD_SMARTKEY_EMN-EVAN_V2.0.PcbDoc
+Date         : 8/12/2026
+Time         : 4:02:07 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +3.3, Signal Layers Only, 0mils
+    +5, Signal Layers Only, 0mils
+    B+, Signal Layers Only, 0mils
+    BUTTON, Signal Layers Only, 0mils
+    CAR_ACC, Signal Layers Only, 0mils
+    CAR_ECVAN_BREAK, Signal Layers Only, 0mils
+    CAR_IGN, Signal Layers Only, 0mils
+    CAR_LOCK, Signal Layers Only, 0mils
+    CAR_MINIO_BREAK, Signal Layers Only, 0mils
+    CAR_START, Signal Layers Only, 0mils
+    CAR_TRUNK_B+, Signal Layers Only, 0mils
+    CAR_TRUNK_B-, Signal Layers Only, 0mils
+    CAR_UNLOCK, Signal Layers Only, 0mils
+    CLK, Signal Layers Only, 0mils
+    CS2, Signal Layers Only, 0mils
+    DATA_SYN480R, Signal Layers Only, 0mils
+    D_N, Signal Layers Only, 0mils
+    D_P, Signal Layers Only, 0mils
+    EN, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 0mils
+    HC595-CLK, Signal Layers Only, 0mils
+    HC595-DATA, Signal Layers Only, 0mils
+    HC595-ENABLE, Signal Layers Only, 0mils
+    HC595-LATCH, Signal Layers Only, 0mils
+    HV-MD125KHZ, Signal Layers Only, 0mils
+    LED_STATUS, Signal Layers Only, 0mils
+    LV-MD125KHZ, Signal Layers Only, 0mils
+    MCU_ACC, Signal Layers Only, 0mils
+    MCU_ECVAN_BREAK, Signal Layers Only, 0mils
+    MCU_EVAN-EMN, Signal Layers Only, 0mils
+    MCU_IGN, Signal Layers Only, 0mils
+    MCU_LOCK, Signal Layers Only, 0mils
+    MCU_MINIO_BREAK, Signal Layers Only, 0mils
+    MCU_START, Signal Layers Only, 0mils
+    MCU_TRUNK, Signal Layers Only, 0mils
+    MCU_UNLOCK, Signal Layers Only, 0mils
+    MOSI, Signal Layers Only, 0mils
+    MOTOR_LOCK, Signal Layers Only, 0mils
+    MOTOR_UNLOCK, Signal Layers Only, 0mils
+    NetANTENNA MONOPOLE1_1, Signal Layers Only, 0mils
+    NetC16_1, Signal Layers Only, 0mils
+    NetC17_1, Signal Layers Only, 0mils
+    NetC1_1, Signal Layers Only, 0mils
+    NetC1_2, Signal Layers Only, 0mils
+    NetC22_1, Signal Layers Only, 0mils
+    NetC23_2, Signal Layers Only, 0mils
+    NetC5_2, Signal Layers Only, 0mils
+    NetC8_1, Signal Layers Only, 0mils
+    NetD2_1, Signal Layers Only, 0mils
+    NetD3_1, Signal Layers Only, 0mils
+    NetD4_2, Signal Layers Only, 0mils
+    NetJ2_1, Signal Layers Only, 0mils
+    NetJ3_1, Signal Layers Only, 0mils
+    NetJ4_1, Signal Layers Only, 0mils
+    NetL2_1, Signal Layers Only, 0mils
+    NetQ1_1, Signal Layers Only, 0mils
+    NetQ2_1, Signal Layers Only, 0mils
+    NetQ3_1, Signal Layers Only, 0mils
+    NetQ3_3, Signal Layers Only, 0mils
+    NetQ4_1, Signal Layers Only, 0mils
+    NetQ4_3, Signal Layers Only, 0mils
+    NetQ5_1, Signal Layers Only, 0mils
+    NetQ5_3, Signal Layers Only, 0mils
+    NetR2_2, Signal Layers Only, 0mils
+    NetR33_2, Signal Layers Only, 0mils
+    NetR6_1, Signal Layers Only, 0mils
+    NetR7_1, Signal Layers Only, 0mils
+    NetSW1_3, Signal Layers Only, 0mils
+    NetSW1_4, Signal Layers Only, 0mils
+    VCC, Signal Layers Only, 0mils
+    VCC-B, Signal Layers Only, 0mils
+    XIN, Signal Layers Only, 0mils
+    XOUT, Signal Layers Only, 0mils
+count : 73

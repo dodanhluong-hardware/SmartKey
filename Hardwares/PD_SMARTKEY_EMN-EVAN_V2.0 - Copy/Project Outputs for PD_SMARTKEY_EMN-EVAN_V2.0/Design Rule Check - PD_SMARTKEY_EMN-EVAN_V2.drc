@@ -1,0 +1,562 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\DELL\Documents\GitHub\Altium-cp1\PD_SMARTKEY_ALL_V2\Hardwares\PD_SMARTKEY_EMN-EVAN_V2.0\PD_SMARTKEY_EMN-EVAN_V2.0.PcbDoc
+Date     : 8/13/2026
+Time     : 2:28:19 PM
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=7mil) (IsTrack),(IsTrack)
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3699.546mil,3633.513mil)(3707.5mil,3625.559mil) on Bottom Layer And Track (3719.5mil,3512.098mil)(3719.5mil,3635.982mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3306.339mil)(3702.194mil,3511.762mil) on Bottom Layer And Track (3714.194mil,3311.31mil)(3714.194mil,3506.792mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3306.339mil)(3702.194mil,3511.762mil) on Bottom Layer And Track (3714.194mil,3311.31mil)(3734.697mil,3290.807mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3306.339mil)(3702.194mil,3511.762mil) on Bottom Layer And Track (3714.194mil,3506.792mil)(3719.5mil,3512.098mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3306.339mil)(3729.726mil,3278.807mil) on Bottom Layer And Track (3714.194mil,3311.31mil)(3714.194mil,3506.792mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3306.339mil)(3729.726mil,3278.807mil) on Bottom Layer And Track (3714.194mil,3311.31mil)(3734.697mil,3290.807mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3306.339mil)(3729.726mil,3278.807mil) on Bottom Layer And Track (3734.697mil,3290.807mil)(3844.405mil,3290.807mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3511.762mil)(3707.5mil,3517.068mil) on Bottom Layer And Track (3714.194mil,3311.31mil)(3714.194mil,3506.792mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3511.762mil)(3707.5mil,3517.068mil) on Bottom Layer And Track (3714.194mil,3506.792mil)(3719.5mil,3512.098mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3702.194mil,3511.762mil)(3707.5mil,3517.068mil) on Bottom Layer And Track (3719.5mil,3512.098mil)(3719.5mil,3635.982mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5.264mil < 7mil) Between Track (3707.5mil,3517.068mil)(3707.5mil,3625.559mil) on Bottom Layer And Track (3714.194mil,3311.31mil)(3714.194mil,3506.792mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3707.5mil,3517.068mil)(3707.5mil,3625.559mil) on Bottom Layer And Track (3714.194mil,3506.792mil)(3719.5mil,3512.098mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3707.5mil,3517.068mil)(3707.5mil,3625.559mil) on Bottom Layer And Track (3719.5mil,3512.098mil)(3719.5mil,3635.982mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3714.194mil,3311.31mil)(3734.697mil,3290.807mil) on Bottom Layer And Track (3729.726mil,3278.807mil)(3849.375mil,3278.807mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3729.726mil,3278.807mil)(3849.375mil,3278.807mil) on Bottom Layer And Track (3734.697mil,3290.807mil)(3844.405mil,3290.807mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3729.726mil,3278.807mil)(3849.375mil,3278.807mil) on Bottom Layer And Track (3844.405mil,3290.807mil)(3875.598mil,3322mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3734.697mil,3290.807mil)(3844.405mil,3290.807mil) on Bottom Layer And Track (3849.375mil,3278.807mil)(3880.568mil,3310mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3844.405mil,3290.807mil)(3875.598mil,3322mil) on Bottom Layer And Track (3849.375mil,3278.807mil)(3880.568mil,3310mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3844.405mil,3290.807mil)(3875.598mil,3322mil) on Bottom Layer And Track (3880.568mil,3310mil)(3891.399mil,3310mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3849.375mil,3278.807mil)(3880.568mil,3310mil) on Bottom Layer And Track (3875.598mil,3322mil)(3891.399mil,3322mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3875.598mil,3322mil)(3891.399mil,3322mil) on Bottom Layer And Track (3880.568mil,3310mil)(3891.399mil,3310mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3875.598mil,3322mil)(3891.399mil,3322mil) on Bottom Layer And Track (3891.399mil,3310mil)(3899.399mil,3302mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3880.568mil,3310mil)(3891.399mil,3310mil) on Bottom Layer And Track (3891.399mil,3322mil)(3899.399mil,3330mil) on Bottom Layer 
+   Violation between Clearance Constraint: (5mil < 7mil) Between Track (3891.399mil,3310mil)(3899.399mil,3302mil) on Bottom Layer And Track (3891.399mil,3322mil)(3899.399mil,3330mil) on Bottom Layer 
+Rule Violations :24
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=1000mil) (Preferred=5mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=11.811mil) (Conductor Width=5mil) (Air Gap=5mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InPadClass('PowerPads'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=3mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3450mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3450mil,1900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3450mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3450mil,2500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3450mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3475mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3475mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3500mil,1900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3529mil,3293mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3550mil,1900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3550mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3550mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3575mil,2150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3575mil,2650mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3578.366mil,3326.968mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3600mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3600mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3600mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3600mil,3900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3612mil,3460mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3618mil,3378mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3623.614mil,3338.129mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3625mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3625mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3629mil,3038mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3635mil,3483mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3650mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3650mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3670mil,3066mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3679mil,3278mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3700mil,2100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3743mil,2601mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3746mil,3543mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3765mil,3442mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3771mil,3186mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3775mil,2050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3775mil,3557mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3788mil,3396mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3788mil,3419mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3788mil,3442mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3798mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3798mil,2628mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3804mil,2751mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3811mil,3419mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3811mil,3442mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3818mil,3179mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3825mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3826mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3826mil,2628mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3850mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3862mil,3180mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3900mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3900mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3900mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3900mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3902mil,3302mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3902mil,3330mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3903mil,3183mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3925mil,2050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3925mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3950mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3950mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3950mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3952mil,3166mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3975mil,2650mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (3975mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4000mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4000mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4009mil,3463mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4050mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4050mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4064.764mil,3068.236mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4075mil,2050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4098mil,2150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4100mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4140mil,2796mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4175mil,2350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4175mil,2550mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4197mil,3106mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4200mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4200mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4250mil,3500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4250mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4275mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4300mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4302.68mil,3280.079mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4325mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4350mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4350mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4375mil,2250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4400mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4400mil,3300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4425mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4425mil,2150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4450mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4450mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4450mil,3300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4450mil,3600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4475mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4475mil,3050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4475mil,3150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4475mil,3350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4476mil,3443mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4500mil,2300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4500mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4500mil,3100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4525mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4525mil,2250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4525mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4525mil,3450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4575mil,2350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4609mil,2922mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4650mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4650mil,2500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4650mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4650mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4675mil,2350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4675mil,2450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4675mil,2650mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4675mil,3550mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,3600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4700mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,1950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,2650mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4725mil,3050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,3200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,3300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4750mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,3050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,3150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,3250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4775mil,3450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,3200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,3300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,3500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4800mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2550mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,3050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,3150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,3750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4825mil,3850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4829.819mil,3562.283mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4835mil,3442mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,3200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4850mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,2350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,2450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,2550mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,3050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,3150mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4875mil,3750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,2000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,2500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,2600mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,2800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4900mil,3200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,1950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,2250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,2450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4925mil,3750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,1800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,2300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,3100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,3300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4950mil,3500mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,2250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,2450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,2750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,2850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,3350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,3450mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,3550mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (4975mil,3750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,1800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,2200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,2300mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,2700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,3100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5000mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,2050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,2250mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,3350mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5025mil,3750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,1800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,1900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,3100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5050mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5075mil,1750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5075mil,1850mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5075mil,2950mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5075mil,3050mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5075mil,3750mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,1700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,1800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,1900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,2400mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,2900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,3000mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,3100mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,3200mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,3700mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,3800mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+   Violation between Hole Size Constraint: (10mil < 11.811mil) Via (5100mil,3900mil) from Top Layer to Bottom Layer Actual Hole Size = 10mil
+Rule Violations :277
+
+Processing Rule : Hole To Hole Clearance (Gap=9.842mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=5mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (2.795mil < 5mil) Between Arc (3578.39mil,2379.762mil) on Top Overlay And Pad U3-1(3577.402mil,2343.345mil) on Top Layer [Top Overlay] to [Top Solder] clearance [2.795mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad C10-1(3715mil,1790mil) on Top Layer And Track (3742.256mil,1817mil)(3742.782mil,1868mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad C10-1(3715mil,1790mil) on Top Layer And Track (3742.802mil,1712.046mil)(3742.802mil,1763mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.74mil < 5mil) Between Pad C10-2(3504.764mil,1790mil) on Top Layer And Track (3476.962mil,1657.08mil)(3477.225mil,1762.138mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.74mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.983mil < 5mil) Between Pad C10-2(3504.764mil,1790mil) on Top Layer And Track (3476.982mil,1922.9mil)(3477.771mil,1819.105mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.983mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.508mil < 5mil) Between Pad C16-1(3839.37mil,3560mil) on Top Layer And Track (3819.37mil,3583.895mil)(3825.37mil,3577.895mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.508mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.765mil < 5mil) Between Pad C16-1(3839.37mil,3560mil) on Top Layer And Track (3825.37mil,3577.895mil)(3852.27mil,3577.895mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.765mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.111mil < 5mil) Between Pad C16-1(3839.37mil,3560mil) on Top Layer And Track (3852.27mil,3577.895mil)(3858.67mil,3584.295mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.111mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.512mil < 5mil) Between Pad C17-1(3839.37mil,3680mil) on Top Layer And Track (3819.37mil,3656.101mil)(3825.369mil,3662.102mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.512mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.768mil < 5mil) Between Pad C17-1(3839.37mil,3680mil) on Top Layer And Track (3825.369mil,3662.102mil)(3852.629mil,3662.102mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.768mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.229mil < 5mil) Between Pad C17-1(3839.37mil,3680mil) on Top Layer And Track (3852.629mil,3662.102mil)(3858.628mil,3656.101mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.229mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.1mil < 5mil) Between Pad C22-1(4715.982mil,3219.763mil) on Top Layer And Track (4635.982mil,3190mil)(4691.134mil,3190mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.1mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.1mil < 5mil) Between Pad C22-1(4715.982mil,3219.763mil) on Top Layer And Track (4740.83mil,3190mil)(4795.982mil,3190mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.1mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.1mil < 5mil) Between Pad C22-2(4715.982mil,3440.237mil) on Top Layer And Track (4635.982mil,3470mil)(4691.134mil,3470mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.1mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.1mil < 5mil) Between Pad C22-2(4715.982mil,3440.237mil) on Top Layer And Track (4740.83mil,3470mil)(4795.982mil,3470mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.1mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad C24-1(4880.571mil,3593.602mil) on Top Layer And Track (4858.917mil,3575.886mil)(4858.917mil,3670.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad C24-1(4880.571mil,3593.602mil) on Top Layer And Track (4858.917mil,3575.886mil)(4902.224mil,3575.886mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad C24-1(4880.571mil,3593.602mil) on Top Layer And Track (4902.224mil,3575.886mil)(4902.224mil,3670.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad C24-2(4880.566mil,3652.657mil) on Top Layer And Track (4858.917mil,3575.886mil)(4858.917mil,3670.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad C24-2(4880.566mil,3652.657mil) on Top Layer And Track (4858.917mil,3670.374mil)(4902.224mil,3670.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad C24-2(4880.566mil,3652.657mil) on Top Layer And Track (4902.224mil,3575.886mil)(4902.224mil,3670.374mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.772mil < 5mil) Between Pad D1-1(3715mil,1983.383mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.772mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.778mil < 5mil) Between Pad D1-1(3715mil,1983.383mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.778mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.862mil < 5mil) Between Pad D1-2(3715mil,2156.617mil) on Top Layer And Track (3658.85mil,2172.212mil)(3668.268mil,2172.475mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.862mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.414mil < 5mil) Between Pad D1-2(3715mil,2156.617mil) on Top Layer And Track (3761.284mil,2172.098mil)(3770.702mil,2172.361mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.414mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.488mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3489.815mil,3381.118mil)(3502.811mil,3368.125mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.488mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.098mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3489.815mil,3381.118mil)(3503.201mil,3381.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.098mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.098mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3489.815mil,3381.118mil)(3503.201mil,3394.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.098mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.098mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3502.811mil,3368.125mil)(3503.201mil,3368.125mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.098mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.098mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3503.201mil,3368.125mil)(3503.201mil,3394.898mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.098mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.098mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3503.201mil,3394.504mil)(3503.201mil,3394.898mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.098mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.567mil < 5mil) Between Pad D4-2(3526mil,3381mil) on Top Layer And Track (3549.268mil,3352.378mil)(3549.268mil,3410.645mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.567mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad D5-1(4771.181mil,3602.598mil) on Top Layer And Track (4751.496mil,3580.945mil)(4751.496mil,3699.055mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad D5-2(4771.181mil,3677.402mil) on Top Layer And Track (4751.496mil,3580.945mil)(4751.496mil,3699.055mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad D5-3(4668.819mil,3640mil) on Top Layer And Track (4688.504mil,3580.945mil)(4688.504mil,3699.055mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.934mil < 5mil) Between Pad D6-1(4373.836mil,2150.748mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.934mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.941mil < 5mil) Between Pad D6-1(4373.836mil,2150.748mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.941mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.703mil < 5mil) Between Pad D6-2(4466.164mil,2150.748mil) on Top Layer And Track (4455.483mil,2122.156mil)(4455.483mil,2130.274mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.703mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.095mil < 5mil) Between Pad D6-2(4466.164mil,2150.748mil) on Top Layer And Track (4455.483mil,2171.614mil)(4455.483mil,2179.336mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.095mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.934mil < 5mil) Between Pad D7-1(4600mil,3638.836mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.934mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.941mil < 5mil) Between Pad D7-1(4600mil,3638.836mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.941mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.095mil < 5mil) Between Pad D7-2(4600mil,3731.164mil) on Top Layer And Track (4571.412mil,3720.483mil)(4579.134mil,3720.483mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.095mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.703mil < 5mil) Between Pad D7-2(4600mil,3731.164mil) on Top Layer And Track (4620.474mil,3720.483mil)(4628.592mil,3720.483mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.703mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.934mil < 5mil) Between Pad D8-1(4198.836mil,2150.748mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.934mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.941mil < 5mil) Between Pad D8-1(4198.836mil,2150.748mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.941mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.703mil < 5mil) Between Pad D8-2(4291.164mil,2150.748mil) on Top Layer And Track (4280.483mil,2122.156mil)(4280.483mil,2130.274mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.703mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.095mil < 5mil) Between Pad D8-2(4291.164mil,2150.748mil) on Top Layer And Track (4280.483mil,2171.614mil)(4280.483mil,2179.336mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.095mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.934mil < 5mil) Between Pad D9-1(4038.836mil,2150.748mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.934mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.941mil < 5mil) Between Pad D9-1(4038.836mil,2150.748mil) on Top Layer And Region (0 hole(s)) Top Overlay [Top Overlay] to [Top Solder] clearance [3.941mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.751mil < 5mil) Between Pad D9-1(4038.836mil,2150.748mil) on Top Layer And Track (4011.9mil,2067.476mil)(4011.9mil,2193.476mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.751mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.703mil < 5mil) Between Pad D9-2(4131.164mil,2150.748mil) on Top Layer And Track (4120.483mil,2122.156mil)(4120.483mil,2130.274mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.703mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.095mil < 5mil) Between Pad D9-2(4131.164mil,2150.748mil) on Top Layer And Track (4120.483mil,2171.614mil)(4120.483mil,2179.336mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.095mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.162mil < 5mil) Between Pad J1-1(4428.622mil,3472.598mil) on Top Layer And Track (4414.496mil,3492.071mil)(4414.496mil,3527.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.162mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.162mil < 5mil) Between Pad J1-2(4428.622mil,3547.402mil) on Top Layer And Track (4414.496mil,3492.071mil)(4414.496mil,3527.929mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.162mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.161mil < 5mil) Between Pad J1-3(4331.378mil,3510mil) on Top Layer And Track (4345.504mil,3449.52mil)(4345.504mil,3490.528mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.161mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.161mil < 5mil) Between Pad J1-3(4331.378mil,3510mil) on Top Layer And Track (4345.504mil,3529.472mil)(4345.504mil,3570.48mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.161mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.297mil < 5mil) Between Pad J2-1(4374.45mil,2293.154mil) on Top Layer And Track (4392.167mil,2243.387mil)(4392.167mil,2268.109mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.297mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.293mil < 5mil) Between Pad J2-2(4374.45mil,2218.346mil) on Top Layer And Track (4392.167mil,2243.387mil)(4392.167mil,2268.109mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.293mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad J2-3(4465mil,2255.748mil) on Top Layer And Track (4447.285mil,2196.693mil)(4447.285mil,2230.709mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad J2-3(4465mil,2255.748mil) on Top Layer And Track (4447.285mil,2280.787mil)(4447.285mil,2314.803mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.297mil < 5mil) Between Pad J3-1(4199.725mil,2288.152mil) on Top Layer And Track (4217.442mil,2238.385mil)(4217.442mil,2263.107mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.297mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.293mil < 5mil) Between Pad J3-2(4199.725mil,2213.344mil) on Top Layer And Track (4217.442mil,2238.385mil)(4217.442mil,2263.107mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.293mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad J3-3(4290.275mil,2250.746mil) on Top Layer And Track (4272.56mil,2191.691mil)(4272.56mil,2225.707mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad J3-3(4290.275mil,2250.746mil) on Top Layer And Track (4272.56mil,2275.785mil)(4272.56mil,2309.801mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.297mil < 5mil) Between Pad J4-1(4039.725mil,2287.404mil) on Top Layer And Track (4057.442mil,2237.637mil)(4057.442mil,2262.359mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.297mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.293mil < 5mil) Between Pad J4-2(4039.725mil,2212.596mil) on Top Layer And Track (4057.442mil,2237.637mil)(4057.442mil,2262.359mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.293mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad J4-3(4130.275mil,2249.998mil) on Top Layer And Track (4112.56mil,2190.943mil)(4112.56mil,2224.959mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad J4-3(4130.275mil,2249.998mil) on Top Layer And Track (4112.56mil,2275.037mil)(4112.56mil,2309.053mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.112mil < 5mil) Between Pad OUTPUT1-16(4134.9mil,2021.476mil) on Multi-Layer And Track (4011.9mil,2067.476mil)(4914.9mil,2067.476mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.112mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad Q1-1(4317.598mil,2818.819mil) on Top Layer And Track (4295.945mil,2838.504mil)(4414.055mil,2838.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad Q1-2(4392.402mil,2818.819mil) on Top Layer And Track (4295.945mil,2838.504mil)(4414.055mil,2838.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad Q1-3(4355mil,2921.181mil) on Top Layer And Track (4295.945mil,2901.496mil)(4414.055mil,2901.496mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad Q2-1(3992.598mil,2818.819mil) on Top Layer And Track (3970.945mil,2838.504mil)(4089.055mil,2838.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad Q2-2(4067.402mil,2818.819mil) on Top Layer And Track (3970.945mil,2838.504mil)(4089.055mil,2838.504mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad Q2-3(4030mil,2921.181mil) on Top Layer And Track (3970.945mil,2901.496mil)(4089.055mil,2901.496mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.794mil < 5mil) Between Pad Q3-1(4379.725mil,2558.152mil) on Top Layer And Text "Q3" (4354.645mil,2497.889mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.794mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.297mil < 5mil) Between Pad Q3-1(4379.725mil,2558.152mil) on Top Layer And Track (4397.442mil,2508.385mil)(4397.442mil,2533.107mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.297mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.293mil < 5mil) Between Pad Q3-2(4379.725mil,2483.344mil) on Top Layer And Track (4397.442mil,2508.385mil)(4397.442mil,2533.107mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.293mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad Q3-3(4470.275mil,2520.746mil) on Top Layer And Track (4452.56mil,2461.691mil)(4452.56mil,2495.707mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad Q3-3(4470.275mil,2520.746mil) on Top Layer And Track (4452.56mil,2545.785mil)(4452.56mil,2579.801mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.297mil < 5mil) Between Pad Q4-1(4209.725mil,2558.152mil) on Top Layer And Track (4227.442mil,2508.385mil)(4227.442mil,2533.107mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.297mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.263mil < 5mil) Between Pad Q4-2(4209.725mil,2483.344mil) on Top Layer And Text "R34" (4185.777mil,2406.169mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.263mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.293mil < 5mil) Between Pad Q4-2(4209.725mil,2483.344mil) on Top Layer And Track (4227.442mil,2508.385mil)(4227.442mil,2533.107mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.293mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (2.114mil < 5mil) Between Pad Q4-3(4300.275mil,2520.746mil) on Top Layer And Text "Q3" (4354.645mil,2497.889mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [2.115mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad Q4-3(4300.275mil,2520.746mil) on Top Layer And Track (4282.56mil,2461.691mil)(4282.56mil,2495.707mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad Q4-3(4300.275mil,2520.746mil) on Top Layer And Track (4282.56mil,2545.785mil)(4282.56mil,2579.801mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.297mil < 5mil) Between Pad Q5-1(4029.725mil,2557.404mil) on Top Layer And Track (4047.442mil,2507.637mil)(4047.442mil,2532.359mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.297mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.293mil < 5mil) Between Pad Q5-2(4029.725mil,2482.596mil) on Top Layer And Track (4047.442mil,2507.637mil)(4047.442mil,2532.359mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.293mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad Q5-3(4120.275mil,2519.998mil) on Top Layer And Track (4102.56mil,2460.943mil)(4102.56mil,2494.959mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.291mil < 5mil) Between Pad Q5-3(4120.275mil,2519.998mil) on Top Layer And Track (4102.56mil,2545.037mil)(4102.56mil,2579.053mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.291mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R11-1(4260mil,2818.819mil) on Top Layer And Track (4238.346mil,2801.102mil)(4238.346mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R11-1(4260mil,2818.819mil) on Top Layer And Track (4238.346mil,2801.102mil)(4281.654mil,2801.102mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R11-1(4260mil,2818.819mil) on Top Layer And Track (4281.654mil,2801.102mil)(4281.654mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R11-2(4259.995mil,2877.874mil) on Top Layer And Track (4238.346mil,2801.102mil)(4238.346mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R11-2(4259.995mil,2877.874mil) on Top Layer And Track (4238.346mil,2895.591mil)(4281.654mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R11-2(4259.995mil,2877.874mil) on Top Layer And Track (4281.654mil,2801.102mil)(4281.654mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R13-1(4376.654mil,2765.005mil) on Top Layer And Track (4299.882mil,2743.351mil)(4394.37mil,2743.351mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R13-1(4376.654mil,2765.005mil) on Top Layer And Track (4299.882mil,2786.658mil)(4394.37mil,2786.658mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R13-1(4376.654mil,2765.005mil) on Top Layer And Track (4394.37mil,2743.351mil)(4394.37mil,2786.658mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R13-2(4317.598mil,2765mil) on Top Layer And Track (4299.882mil,2743.351mil)(4299.882mil,2786.658mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R13-2(4317.598mil,2765mil) on Top Layer And Track (4299.882mil,2743.351mil)(4394.37mil,2743.351mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R13-2(4317.598mil,2765mil) on Top Layer And Track (4299.882mil,2786.658mil)(4394.37mil,2786.658mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R16-1(3935mil,2818.819mil) on Top Layer And Track (3913.347mil,2801.102mil)(3913.347mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R16-1(3935mil,2818.819mil) on Top Layer And Track (3913.347mil,2801.102mil)(3956.653mil,2801.102mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R16-1(3935mil,2818.819mil) on Top Layer And Track (3956.653mil,2801.102mil)(3956.653mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R16-2(3934.995mil,2877.874mil) on Top Layer And Track (3913.347mil,2801.102mil)(3913.347mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R16-2(3934.995mil,2877.874mil) on Top Layer And Track (3913.347mil,2895.591mil)(3956.653mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R16-2(3934.995mil,2877.874mil) on Top Layer And Track (3956.653mil,2801.102mil)(3956.653mil,2895.591mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R17-1(4081.654mil,2765mil) on Top Layer And Track (4004.882mil,2743.347mil)(4099.37mil,2743.347mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R17-1(4081.654mil,2765mil) on Top Layer And Track (4004.882mil,2786.653mil)(4099.37mil,2786.653mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R17-1(4081.654mil,2765mil) on Top Layer And Track (4099.37mil,2743.347mil)(4099.37mil,2786.653mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R17-2(4022.598mil,2764.995mil) on Top Layer And Track (4004.882mil,2743.347mil)(4004.882mil,2786.653mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R17-2(4022.598mil,2764.995mil) on Top Layer And Track (4004.882mil,2743.347mil)(4099.37mil,2743.347mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R17-2(4022.598mil,2764.995mil) on Top Layer And Track (4004.882mil,2786.653mil)(4099.37mil,2786.653mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R20-1(4830mil,3652.402mil) on Top Layer And Track (4808.346mil,3575.63mil)(4808.346mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R20-1(4830mil,3652.402mil) on Top Layer And Track (4808.346mil,3670.118mil)(4851.654mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R20-1(4830mil,3652.402mil) on Top Layer And Track (4851.654mil,3575.63mil)(4851.654mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R20-2(4830.005mil,3593.346mil) on Top Layer And Track (4808.346mil,3575.63mil)(4808.346mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R20-2(4830.005mil,3593.346mil) on Top Layer And Track (4808.346mil,3575.63mil)(4851.654mil,3575.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R20-2(4830.005mil,3593.346mil) on Top Layer And Track (4851.654mil,3575.63mil)(4851.654mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R22-1(4930mil,3593.346mil) on Top Layer And Track (4908.346mil,3575.63mil)(4908.346mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R22-1(4930mil,3593.346mil) on Top Layer And Track (4908.346mil,3575.63mil)(4951.654mil,3575.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R22-1(4930mil,3593.346mil) on Top Layer And Track (4951.654mil,3575.63mil)(4951.654mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R22-2(4929.995mil,3652.402mil) on Top Layer And Track (4908.346mil,3575.63mil)(4908.346mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R22-2(4929.995mil,3652.402mil) on Top Layer And Track (4908.346mil,3670.118mil)(4951.654mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R22-2(4929.995mil,3652.402mil) on Top Layer And Track (4951.654mil,3575.63mil)(4951.654mil,3670.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R32-1(3800mil,3042.402mil) on Top Layer And Track (3778.347mil,2965.63mil)(3778.347mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R32-1(3800mil,3042.402mil) on Top Layer And Track (3778.347mil,3060.118mil)(3821.653mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R32-1(3800mil,3042.402mil) on Top Layer And Track (3821.653mil,2965.63mil)(3821.653mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R32-2(3800.005mil,2983.346mil) on Top Layer And Track (3778.347mil,2965.63mil)(3778.347mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R32-2(3800.005mil,2983.346mil) on Top Layer And Track (3778.347mil,2965.63mil)(3821.653mil,2965.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R32-2(3800.005mil,2983.346mil) on Top Layer And Track (3821.653mil,2965.63mil)(3821.653mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R33-1(3850mil,3042.402mil) on Top Layer And Track (3828.347mil,2965.63mil)(3828.347mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R33-1(3850mil,3042.402mil) on Top Layer And Track (3828.347mil,3060.118mil)(3871.653mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R33-1(3850mil,3042.402mil) on Top Layer And Track (3871.653mil,2965.63mil)(3871.653mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.442mil < 5mil) Between Pad R33-2(3850.005mil,2983.346mil) on Top Layer And Track (3828.347mil,2965.63mil)(3828.347mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.442mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.437mil < 5mil) Between Pad R33-2(3850.005mil,2983.346mil) on Top Layer And Track (3828.347mil,2965.63mil)(3871.653mil,2965.63mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.437mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.432mil < 5mil) Between Pad R33-2(3850.005mil,2983.346mil) on Top Layer And Track (3871.653mil,2965.63mil)(3871.653mil,3060.118mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.432mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL1-1(5074.724mil,2835mil) on Multi-Layer And Track (5075.905mil,2884.213mil)(5075.905mil,2933.425mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.567mil < 5mil) Between Pad RL1-1(5074.724mil,2835mil) on Multi-Layer And Track (5125.118mil,2592.874mil)(5125.118mil,3077.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.567mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL1-2(4574.724mil,2638.15mil) on Multi-Layer And Track (4514.882mil,2592.874mil)(5125.118mil,2592.874mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.407mil < 5mil) Between Pad RL1-2(4574.724mil,2638.15mil) on Multi-Layer And Track (4573.937mil,2687.362mil)(4573.937mil,2758.228mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.407mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL1-3(4574.724mil,3031.85mil) on Multi-Layer And Track (4514.882mil,3077.126mil)(5125.118mil,3077.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.407mil < 5mil) Between Pad RL1-3(4574.724mil,3031.85mil) on Multi-Layer And Track (4575.512mil,2911.772mil)(4575.512mil,2982.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.407mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL1-4(4976.299mil,3031.85mil) on Multi-Layer And Track (4514.882mil,3077.126mil)(5125.118mil,3077.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL1-4(4976.299mil,3031.85mil) on Multi-Layer And Track (4977.48mil,2889.134mil)(4977.48mil,2982.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL1-4(4976.299mil,3031.85mil) on Multi-Layer And Track (4977.48mil,2982.638mil)(4977.48mil,2982.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL1-5(4976.299mil,2638.15mil) on Multi-Layer And Track (4514.882mil,2592.874mil)(5125.118mil,2592.874mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL1-5(4976.299mil,2638.15mil) on Multi-Layer And Track (4977.48mil,2687.362mil)(4977.48mil,2780.866mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL2-1(5074.724mil,2335mil) on Multi-Layer And Track (5075.905mil,2384.213mil)(5075.905mil,2433.425mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.567mil < 5mil) Between Pad RL2-1(5074.724mil,2335mil) on Multi-Layer And Track (5125.118mil,2092.874mil)(5125.118mil,2577.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.567mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL2-2(4574.724mil,2138.15mil) on Multi-Layer And Track (4514.882mil,2092.874mil)(5125.118mil,2092.874mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.407mil < 5mil) Between Pad RL2-2(4574.724mil,2138.15mil) on Multi-Layer And Track (4573.937mil,2187.362mil)(4573.937mil,2258.228mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.407mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL2-3(4574.724mil,2531.85mil) on Multi-Layer And Track (4514.882mil,2577.126mil)(5125.118mil,2577.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.407mil < 5mil) Between Pad RL2-3(4574.724mil,2531.85mil) on Multi-Layer And Track (4575.512mil,2411.772mil)(4575.512mil,2482.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.407mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL2-4(4976.299mil,2531.85mil) on Multi-Layer And Track (4514.882mil,2577.126mil)(5125.118mil,2577.126mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL2-4(4976.299mil,2531.85mil) on Multi-Layer And Track (4977.48mil,2389.134mil)(4977.48mil,2482.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL2-4(4976.299mil,2531.85mil) on Multi-Layer And Track (4977.48mil,2482.638mil)(4977.48mil,2482.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 5mil) Between Pad RL2-5(4976.299mil,2138.15mil) on Multi-Layer And Track (4514.882mil,2092.874mil)(5125.118mil,2092.874mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.419mil < 5mil) Between Pad RL2-5(4976.299mil,2138.15mil) on Multi-Layer And Track (4977.48mil,2187.362mil)(4977.48mil,2280.866mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.419mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.347mil < 5mil) Between Pad S1-1(5045mil,3907.795mil) on Top Layer And Track (4972mil,3881mil)(5017mil,3881mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.347mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.347mil < 5mil) Between Pad S1-1(5045mil,3907.795mil) on Top Layer And Track (5073mil,3881mil)(5118mil,3881mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.347mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.347mil < 5mil) Between Pad S1-2(5045mil,3632.205mil) on Top Layer And Track (4972mil,3659mil)(5017mil,3659mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.347mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.347mil < 5mil) Between Pad S1-2(5045mil,3632.205mil) on Top Layer And Track (5073mil,3659mil)(5118mil,3659mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.347mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.507mil < 5mil) Between Pad U4-1(3839.37mil,3485mil) on Top Layer And Track (3852.381mil,3488.885mil)(3871.897mil,3469.369mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.507mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-1(3839.37mil,3485mil) on Top Layer And Track (3852.381mil,3488.885mil)(3871.897mil,3488.885mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-16(3672.932mil,3318.562mil) on Top Layer And Track (3669.047mil,3286.035mil)(3669.047mil,3305.551mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-17(3701.574mil,3289.92mil) on Top Layer And Track (3669.047mil,3286.035mil)(3688.563mil,3286.035mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-24(3839.37mil,3289.92mil) on Top Layer And Track (3852.381mil,3286.035mil)(3871.897mil,3286.035mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-25(3868.012mil,3318.562mil) on Top Layer And Track (3871.897mil,3286.035mil)(3871.897mil,3305.551mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.507mil < 5mil) Between Pad U4-32(3868.012mil,3456.358mil) on Top Layer And Track (3852.381mil,3488.885mil)(3871.897mil,3469.369mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.507mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-32(3868.012mil,3456.358mil) on Top Layer And Track (3871.897mil,3469.369mil)(3871.897mil,3488.885mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-8(3701.574mil,3485mil) on Top Layer And Track (3669.047mil,3488.885mil)(3688.563mil,3488.885mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.999mil < 5mil) Between Pad U4-9(3672.932mil,3456.358mil) on Top Layer And Track (3669.047mil,3469.369mil)(3669.047mil,3488.885mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.999mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-1(3835mil,2898mil) on Top Layer And Track (3667mil,2861mil)(3853mil,2861mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-2(3785mil,2898mil) on Top Layer And Track (3667mil,2861mil)(3853mil,2861mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-3(3735mil,2898mil) on Top Layer And Track (3667mil,2861mil)(3853mil,2861mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-4(3685mil,2898mil) on Top Layer And Track (3667mil,2861mil)(3853mil,2861mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-5(3685mil,2682mil) on Top Layer And Track (3667mil,2719mil)(3853mil,2719mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-6(3735mil,2682mil) on Top Layer And Track (3667mil,2719mil)(3853mil,2719mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-7(3785mil,2682mil) on Top Layer And Track (3667mil,2719mil)(3853mil,2719mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.495mil < 5mil) Between Pad U6-8(3835mil,2682mil) on Top Layer And Track (3667mil,2719mil)(3853mil,2719mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.495mil]
+Rule Violations :182
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (3670mil,3066mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (3698mil,3066mil) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (5049mil,3156mil) from Top Layer to Bottom Layer 
+Rule Violations :3
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (7.381mil < 7.874mil) Between Board Edge And Text "C3" (3464.951mil,3015.687mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (7.404mil < 7.874mil) Between Board Edge And Text "C4" (3464.974mil,3085.225mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (5mil < 7.874mil) Between Board Edge And Track (3435mil,3545mil)(3435mil,3645.926mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (5mil < 7.874mil) Between Board Edge And Track (3435mil,3545mil)(3535mil,3545mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (5mil < 7.874mil) Between Board Edge And Track (3435mil,3645.926mil)(3435mil,3945mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (5mil < 7.874mil) Between Board Edge And Track (3435mil,3645.926mil)(3535mil,3645.926mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (5mil < 7.874mil) Between Board Edge And Track (3435mil,3945mil)(3535mil,3945mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (6.772mil < 7.874mil) Between Board Edge And Track (3535mil,3545mil)(3535mil,3945mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (3794.9mil,1160.476mil)(3794.9mil,2193.476mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (3794.9mil,1160.476mil)(3795.9mil,1159.476mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (3795.9mil,1159.476mil)(4030.9mil,1159.476mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4030.9mil,1159.476mil)(4030.9mil,1315.476mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4030.9mil,1315.476mil)(4980.9mil,1315.476mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 7.874mil) Between Board Edge And Track (4980.9mil,1315.476mil)(4980.9mil,1830.476mil) on Top Overlay 
+Rule Violations :14
+
+Processing Rule : Height Constraint (Min=0mil) (Max=71497.938mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Waived Violations : 0
+Time Elapsed        : 00:00:02

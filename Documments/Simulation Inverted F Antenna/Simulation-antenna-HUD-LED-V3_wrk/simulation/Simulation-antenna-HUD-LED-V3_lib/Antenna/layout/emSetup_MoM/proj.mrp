@@ -1,0 +1,45 @@
+
+--- WARNING -------------------------------------------------------------------
+
+Polyline edges and/or wires have been found on
+STRIP layer <mask 43> and will be ignored. Their
+location has been written to the DRC report.
+
+-------------------------------------------------------------------------------
+
+
+--- WARNING -------------------------------------------------------------------
+
+Polyline edges and/or wires have been found on
+STRIP layer <mask 44> and will be ignored. Their
+location has been written to the DRC report.
+
+-------------------------------------------------------------------------------
+
+Using the minimal snap distance of 0.0004 mm
+(4 layout resolution points) for layout healing.
+
+--- WARNING -------------------------------------------------------------------
+
+Layout healing changed the layout. The actual
+highest aggregate snap distance was 0.0004 mm.
+Further details have been written to the DRC
+report.
+
+-------------------------------------------------------------------------------
+
+Generating mesh at 3 GHz...
+
+--- WARNING -------------------------------------------------------------------
+
+Semiconductive and/or dielectric shapes have
+been detected.
+Momentum supports semiconductive and dielectric
+substrate layers, but not individual
+semiconductive or dielectric shapes.
+In the simulation, their material will be
+replaced by the underlying substrate layer
+material.
+
+-------------------------------------------------------------------------------
+

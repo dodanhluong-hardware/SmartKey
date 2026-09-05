@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<AdsTranslatorSetupFile Version="1.0">
+    <Import>
+        <Unit>mm</Unit>
+        <Flatten>0</Flatten>
+        <Layers>
+            <Layer EecadLayer="Bottom Layer" AdsLayer="Bottom Layer" Transfer="1" />
+            <Layer EecadLayer="Bottom Overlay" AdsLayer="Bottom Overlay" Transfer="1" />
+            <Layer EecadLayer="Bottom Paste" AdsLayer="Bottom Paste" Transfer="1" />
+            <Layer EecadLayer="Bottom Solder" AdsLayer="Bottom Solder" Transfer="1" />
+            <Layer EecadLayer="Keep-Out Layer" AdsLayer="Keep-Out Layer" Transfer="1" />
+            <Layer EecadLayer="Layer 1" AdsLayer="Layer 1" Transfer="1" />
+            <Layer EecadLayer="Layer 2" AdsLayer="Layer 2" Transfer="1" />
+            <Layer EecadLayer="Mechanical 1" AdsLayer="Mechanical 1" Transfer="1" />
+            <Layer EecadLayer="Mechanical 13" AdsLayer="Mechanical 13" Transfer="1" />
+            <Layer EecadLayer="Mechanical 15" AdsLayer="Mechanical 15" Transfer="1" />
+            <Layer EecadLayer="Mechanical 2" AdsLayer="Mechanical 2" Transfer="1" />
+            <Layer EecadLayer="Multi-Layer" AdsLayer="Multi-Layer" Transfer="1" />
+            <Layer EecadLayer="Top Layer" AdsLayer="Top Layer" Transfer="1" />
+            <Layer EecadLayer="Top Overlay" AdsLayer="Top Overlay" Transfer="1" />
+            <Layer EecadLayer="Top Paste" AdsLayer="Top Paste" Transfer="1" />
+            <Layer EecadLayer="Top Solder" AdsLayer="Top Solder" Transfer="1" />
+        </Layers>
+        <FileFormat>DXF</FileFormat>
+        <AutocadVersion>Autocad 2004</AutocadVersion>
+        <AutoMerge>0</AutoMerge>
+        <ImportNegativeLayerAsSlotLayer>0</ImportNegativeLayerAsSlotLayer>
+        <CreateComponentsInFolder>1</CreateComponentsInFolder>
+        <SelectedDesignName></SelectedDesignName>
+        <PathsAsPolygons>1</PathsAsPolygons>
+        <VectorizeText>0</VectorizeText>
+        <LayerStackup>1</LayerStackup>
+        <HoleFormat>Holes As Cutlines</HoleFormat>
+        <Polarity />
+        <Nets />
+        <Components />
+    </Import>
+    <Export>
+        <FileFormat>DXF</FileFormat>
+        <AutocadVersion>Autocad 2004</AutocadVersion>
+        <PathsAsPolygons>1</PathsAsPolygons>
+        <HoleFormat>Holes As Cutlines</HoleFormat>
+        <Layers />
+    </Export>
+</AdsTranslatorSetupFile>

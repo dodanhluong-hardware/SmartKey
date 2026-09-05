@@ -1,0 +1,24 @@
+<!DOCTYPE Substrate>
+<SubstrateModel>
+    <stack SPECIFIED_PURPOSES="" BAL_NUM="0" PURPOSE_TREATMENT="USE_ALL_EXCEPT_SPECIFIED" BAL_TYPE="NONE">
+        <material materialname="AIR" BAL_NUM="0" BAL_TYPE="INHERIT"/>
+        <interface materialname="" thick="" BAL_NUM="0" thickunit="micron" BAL_TYPE="INHERIT"/>
+        <material materialname="FR_4_Prepreg" thick="0.15" BAL_NUM="0" thickunit="millimeter" BAL_TYPE="INHERIT"/>
+        <interface materialname="" thick="" BAL_NUM="0" thickunit="micron" BAL_TYPE="INHERIT"/>
+        <material materialname="FR_4_Prepreg" thick="0.65" BAL_NUM="0" thickunit="millimeter" BAL_TYPE="INHERIT"/>
+        <interface materialname="" thick="" BAL_NUM="0" thickunit="micron" BAL_TYPE="INHERIT"/>
+        <material materialname="FR_4_Prepreg" thick="0.15" BAL_NUM="0" thickunit="millimeter" BAL_TYPE="INHERIT"/>
+        <interface materialname="" thick="" BAL_NUM="0" thickunit="micron" BAL_TYPE="INHERIT"/>
+        <material materialname="AIR" BAL_NUM="0" BAL_TYPE="INHERIT"/>
+    </stack>
+    <layers>
+        <layer materialname="Copper" index="0" pinsOnly="0" subtype="0" toprough="" expand="0" layer="2" negative="0" thick="1.37" angle="90.0" sheet="1" thickunit="mil" precedence="0" bottomrough="" processRole="1"/>
+        <layer materialname="Copper" index="1" pinsOnly="0" subtype="0" toprough="" expand="0" layer="44" negative="0" thick="1.37" angle="90.0" sheet="1" thickunit="mil" precedence="0" bottomrough="" processRole="1"/>
+        <layer materialname="Copper" index="2" pinsOnly="0" subtype="0" toprough="" expand="0" layer="43" negative="0" thick="1.37" angle="90.0" sheet="1" thickunit="mil" precedence="0" bottomrough="" processRole="1"/>
+        <layer materialname="Copper" index="3" pinsOnly="0" subtype="0" toprough="" expand="0" layer="1" negative="0" thick="1.37" angle="90" sheet="1" thickunit="millimeter" precedence="1" bottomrough="" processRole="1"/>
+    </layers>
+    <vias>
+        <via platingenabled="0" index2="3" materialname="FR_4_Prepreg" rough="" subtype="0" layer="5" index1="0" platingdielectricmaterial="AIR" platingthickness="" precedence="0" platingthicknessunit="micron" processRole="4"/>
+    </vias>
+    <substrates/>
+</SubstrateModel>

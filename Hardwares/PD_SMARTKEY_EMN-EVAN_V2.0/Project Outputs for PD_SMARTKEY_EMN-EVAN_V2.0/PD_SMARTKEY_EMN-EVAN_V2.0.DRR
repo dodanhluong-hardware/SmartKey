@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PD_SMARTKEY_EMN-EVAN_V2.0.PcbDoc   9/4/2026  7:49:18 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PD_SMARTKEY_EMN-EVAN_V2.0-RoundHoles.TXT
+ASCII SlotHoles File : PD_SMARTKEY_EMN-EVAN_V2.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             407       PTH        931.38mm (36.67inch)
+T2      0.305mm (12mil)                                           Round             4         PTH        3.00mm (0.12inch)
+T3      0.8mm (31mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T4      0.889mm (35mil)                                           Round             5         PTH        8.00mm (0.31inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        2.50mm (0.10inch)
+T6      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T7      1.27mm (50mil)                                            Slot              2         PTH        18.39mm (0.72inch)
+T8      1.3mm (51mil)                                             Round             24        PTH        98.95mm (3.90inch)
+T9      1.6mm (63mil)                                             Round             2         PTH        3.20mm (0.13inch)
+T10     3.2mm (126mil)                                            Round             2         PTH        7.65mm (0.30inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              453
+
+Total Processing Time (hh:mm:ss) : 00:00:00
